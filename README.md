@@ -190,4 +190,4 @@ This simulation proves how **IBM Cloud IAM** empowers teams to secure cloud stor
 
 ---
 
-> ✍️ Created by: **Abhijeet**
+> ✍️ Created by: **Khushboo**
